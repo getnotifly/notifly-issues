@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+    - name: Ideas & Feature Requests
+      url: https://github.com/getnotifly/notifly-issues/discussions/new?category=ideas-feature-requests
+      about: For ideas or feature requests, start a new discussion
+    - name: Support Question
+      url: https://getnotifly.com/resources/community
+      about: This repository is only for reporting bugs. If you have a question or need help ask the community.
+    - name: API Documentation Issue
+      url: https://github.com/getnotifly/docs
+      about: For api documentation issues, open a pull request in the getnotifly/docs repository
+    - name: Help Documentation Issue
+      url: https://github.com/getnotifly/help
+      about: For help documentation issues, open a pull request in the getnotifly/help repository
